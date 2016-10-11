@@ -1,3 +1,9 @@
+#Update
+The code compares 5 different classifiers from Scikit.
+Results:  With the data given, Decision Tree, KN and MLP classifier give the most accurate predictions.
+
+
+
 # gender_classification_challenge
 
 ##Overview
